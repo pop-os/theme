@@ -2,7 +2,7 @@ Source: pop-theme
 Section: gnome
 Priority: optional
 Maintainer: Jeremy Soller <jeremy@system76.com>
-Uploaders: Jeremy Soller <jeremy@system76.com>
+Uploaders: Ian Santopietro <ian@system76.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
 Homepage: https://github.com/system76/pop-theme
@@ -10,4 +10,5 @@ Homepage: https://github.com/system76/pop-theme
 Package: pop-theme
 Architecture: all
 Depends: pop-fonts, pop-gtk-theme, pop-icon-theme
+Conflicts: system76-pop-theme
 Description: Pop Theme Metapackage
