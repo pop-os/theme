@@ -1,3 +1,10 @@
+pop-theme (1.0.3) artful; urgency=medium
+
+  * Update for artful
+  * Add pop-gnome-shell-theme
+
+ -- Jeremy Soller <jeremy@system76.com>  Wed, 23 Aug 2017 13:02:40 -0600
+
 pop-theme (1.0.2) zesty; urgency=medium
 
   * Update conflicts
