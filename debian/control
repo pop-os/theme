@@ -9,6 +9,6 @@ Homepage: https://github.com/system76/pop-theme
 
 Package: pop-theme
 Architecture: all
-Depends: pop-fonts, pop-gnome-shell-theme, pop-gtk-theme, pop-icon-theme
+Depends: pop-fonts, pop-gnome-shell-theme, pop-gtk-theme, pop-icon-theme, pop-sound-theme
 Conflicts: system76-pop-theme
 Description: Pop Theme Metapackage

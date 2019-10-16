@@ -1,3 +1,10 @@
+pop-theme (1.0.4) eoan; urgency=medium
+
+  * Update for eoan
+  * Add pop-sound-theme
+
+ -- Jeremy Soller <jeremy@system76.com>  Wed, 16 Oct 2019 11:01:22 -0600
+
 pop-theme (1.0.3) artful; urgency=medium
 
   * Update for artful
